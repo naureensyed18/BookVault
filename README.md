@@ -1,6 +1,5 @@
 # Overview
 ## A flask library management system
-### [Deployed on heroku](https://flask-library-management.herokuapp.com/)
 
 ![home](/screenshots/Screenshot%20(128).png)
 ## Stacks used
@@ -30,7 +29,7 @@
 ## Installation
 - Run the command to cole the repository
 ```sh
-  git clone https://github.com/sumaiya119/flask-library-mangement.git
+  git clone  https://github.com/naureensyed18/BookVault.git
 ```
 - Install all requirements with
 ```sh
@@ -66,7 +65,7 @@ flask run
 ![borrow](/screenshots/Screenshot%20(132).png)
 ***
 ## Return a book
-### Retuen a book from members 
+### Return a book from members 
 ![return](/screenshots/Screenshot%20(142).png)
 ***
 ## Transaction Records

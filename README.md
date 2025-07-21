@@ -37,3 +37,7 @@ python
 flask run
 ```
 ***
+## 👩‍💻 Author
+
+**Naureen Syed**  
+🔗 [GitHub](https://github.com/naureensyed18) | [LinkedIn](https://www.linkedin.com/in/naureen-syed-574a33212)
